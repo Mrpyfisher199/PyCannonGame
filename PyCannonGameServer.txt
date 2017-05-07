@@ -1,1 +1,1 @@
-192.168.1.130:5000
+This is what the ip should look like: "ip:5000" (5000 is the default port so don't shange that)
